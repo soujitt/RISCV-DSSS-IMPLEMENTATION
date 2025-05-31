@@ -1,6 +1,5 @@
-================================================================================
+
 FPGA IMPLEMENTATION OF DSSS-CDMA TRANSMITTER AND RECEIVER
-================================================================================
 
 DESCRIPTION
 -----------
@@ -91,7 +90,7 @@ FUTURE IMPROVEMENTS
 CREDITS
 --------------------------------------------------------------------------------
 
-Developed by: [Your Name]
+Developed by: Soujit Chel
 Undergraduate Student, Dept. of Electronics & Communication Engineering
 Project Title: FPGA Implementation of DSSS-CDMA Communication System
 
