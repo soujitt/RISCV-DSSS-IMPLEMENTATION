@@ -90,9 +90,8 @@ FUTURE IMPROVEMENTS
 CREDITS
 --------------------------------------------------------------------------------
 
-Developed by: Soujit Chel
+Developed by: Soujit Chel, 
 Undergraduate Student, Dept. of Electronics & Communication Engineering
-Project Title: FPGA Implementation of DSSS-CDMA Communication System
 
 This project is part of an academic initiative to explore secure and robust 
 communication systems using hardware design methodologies.
