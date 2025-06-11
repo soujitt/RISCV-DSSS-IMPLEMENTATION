@@ -1,5 +1,3 @@
-`timescale 1ns/1ps
-
 module lfsr_6bit (
     output reg [5:0] out,
     input clk,
@@ -11,7 +9,7 @@ module lfsr_6bit (
 
     always @(posedge clk or posedge rst) begin
         if (rst)
-            out <= 6'b000001; // Non-zero seed
+            out <= 6'b101010; // Non-zero seed
         else
             out <= {out[4:0], feedback};
     end
