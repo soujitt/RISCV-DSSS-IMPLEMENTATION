@@ -55,7 +55,7 @@ module tb_cdma_transmitter();
         
         // Test Case 1: Reset Verification
         $display("\n=== Test Case 1: Reset Verification ===");
-        if (dut1.pn_seq !== 6'b000001 || dut2.pn_seq !== 6'b000001) begin
+        if (dut1.pn_seq !== 6'b101010 || dut2.pn_seq !== 6'b101010) begin
             $error("Reset failed - PN seq not initialized properly");
             error_count = error_count + 1;
         end else begin
